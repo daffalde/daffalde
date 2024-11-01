@@ -1,6 +1,7 @@
+<img src="./assets/header.png" alt="image" />
 <h1 align="center">Hi 👋, I'm Daffa Alde Rayhan NP</h1>
 <h3 align="center">Creating intuitive, user-friendly web experiences that blend creativity with functionality in every line of code.</h3>
-<img src="./assets/5739304.jpg" alt="image" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daffalde&label=Profile%20views&color=0e75b6&style=flat" alt="daffalde" /> </p>
 
