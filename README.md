@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://daffalde.github.io/site/](https://daffalde.github.io/site/)
+- 👨‍💻 All of my projects are available at https://daffaalde.my.id/
 
 - 💬 Ask me about **anythink about react😊**
 
